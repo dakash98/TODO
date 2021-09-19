@@ -1,0 +1,23 @@
+[
+  {
+    "name": "add",
+    "path": "/add",
+    "component": "/Users/akashdeep/Development/vue/ToDo-App/pages/add.vue",
+    "chunkName": "pages/add",
+    "_name": "_46e4ca26"
+  },
+  {
+    "name": "delete",
+    "path": "/delete",
+    "component": "/Users/akashdeep/Development/vue/ToDo-App/pages/delete.vue",
+    "chunkName": "pages/delete",
+    "_name": "_0bfe660f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/akashdeep/Development/vue/ToDo-App/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_034ee4c4"
+  }
+]
