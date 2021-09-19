@@ -76,17 +76,21 @@ input[type="text"] {
 }
 
 .btn {
-  padding: 1.5% 7% 1.5% 7%;
+  padding: 1% 7% 1% 7%;
   background-color: rgb(136, 226, 222);
   border: 0px;
   font-weight: bold;
+  font-family: cursive;
+  font-size: 18px;
 }
 
 .btn:hover {
-  padding: 1.5% 7% 1.5% 7%;
+  padding: 1% 7% 1% 7%;
   border: 0px;
   background-color: rgb(47, 172, 255);
   color: azure;
   font-weight: bold;
+  font-family: cursive;
+  font-size: 18px;
 }
 </style>
